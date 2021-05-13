@@ -1,1 +1,1 @@
-# Full-Stack-Shopping-Application
+# Full Stack-Shopping Application
